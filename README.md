@@ -56,7 +56,7 @@ selenium-mercadolibre-test/
 El proyecto automatiza los siguientes escenarios:
 
 1. **Navegación a la página principal**: Verifica que se pueda acceder a la página de inicio de MercadoLibre.
-2. **Selección de país**: Comprueba que se pueda seleccionar un país específico (México).
+2. **Selección de país**: Comprueba que se pueda seleccionar un país específico.
 3. **Búsqueda de productos**: Valida que funcione correctamente la búsqueda de productos.
 4. **Filtrado por condición**: Verifica que se puedan aplicar filtros a los resultados de búsqueda.
 5. **Ver detalle de producto**: Comprueba que se pueda acceder a la página de detalle de un producto.
